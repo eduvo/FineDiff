@@ -1,5 +1,5 @@
 {
-    "name": "cogpowered/finediff",
+    "name": "eduvo/finediff",
     "description": "PHP implementation of a Fine granularity Diff engine",
     "homepage": "https://github.com/cogpowered/FineDiff",
     "license": "MIT",
