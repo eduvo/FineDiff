@@ -23,6 +23,8 @@ namespace cogpowered\FineDiff\Parser\Operations;
  */
 class Copy implements OperationInterface
 {
+    protected $len;
+
     /**
      * Set the initial length.
      *

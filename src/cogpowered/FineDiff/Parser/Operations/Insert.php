@@ -23,6 +23,8 @@ namespace cogpowered\FineDiff\Parser\Operations;
  */
 class Insert implements OperationInterface
 {
+    protected $text;
+
     /**
      * Sets the text that the operation is working with.
      *
